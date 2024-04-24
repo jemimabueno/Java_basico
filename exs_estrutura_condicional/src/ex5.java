@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class ex5 {
 
 	public static void main(String[] args) {
-		// Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
-		//seguir, calcule e mostre o valor da conta a pagar
+		/* Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
+		seguir, calcule e mostre o valor da conta a pagar */
 
 		int codigo;
 		int quantidade;
