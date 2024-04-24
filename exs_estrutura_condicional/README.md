@@ -11,7 +11,9 @@ Simples:
  }
  
 Regra:
+
  V: executa o bloco de comandos
+
  
  F: pula o bloco de comandos
 
@@ -29,6 +31,8 @@ Regra:
 
 Regra:
 
+
 V: executa somente o bloco do if
+
 F: executa somente o bloco do else
 
