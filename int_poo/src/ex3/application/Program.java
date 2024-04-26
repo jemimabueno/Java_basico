@@ -7,10 +7,10 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		/* Mostrarosdadosdoproduto(nome,preço,quantidadenoestoque,valortotalno
+		/* Mostrar os dados do produto (nome,preço,quantidade no estoque,valor totalno
 		 estoque)
-	     •Realizarumaentradanoestoqueemostrarnovamenteosdadosdoproduto
-	     •Realizarumasaídanoestoqueemostrarnovamenteosdadosdoproduto     */
+	        • Realizar uma entrada no estoque e mostrar novamente os dados do produto
+	        • Realizar uma saída no estoque e mostrar novamente os dados do produto  */
 		
 		Scanner sc= new Scanner(System.in);
 		Product pdt = new Product();
