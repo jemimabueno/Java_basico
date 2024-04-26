@@ -5,11 +5,14 @@ precisam de objeto para serem chamados. São chamados a partir do
 próprio nome da classe.
 
 
+
 Aplicações comuns:
 
  • Classes utilitárias   ->  Math.sqrt(double) 
  
  • Declaração de constantes
+
+
 
 
 Uma classe que possui somente membros estáticos, pode ser uma classe 
