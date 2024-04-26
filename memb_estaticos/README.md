@@ -16,4 +16,4 @@ Aplicações comuns:
 
 
 Uma classe que possui somente membros estáticos, pode ser uma classe 
-estática também. Esta classe não poderá ser instanciada
+estática também. Esta classe não poderá ser instanciada.
