@@ -1,4 +1,4 @@
-# Ex 2 
+# Exercício 2 
 Fazer um programa para ler os dados de um produto em estoque(nome,preço e quantidade no estoque).
 
 Em seguida:
