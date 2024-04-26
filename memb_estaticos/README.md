@@ -8,6 +8,7 @@ próprio nome da classe.
 Aplicações comuns:
 
  • Classes utilitárias   ->  Math.sqrt(double) 
+ 
  • Declaração de constantes
 
 
