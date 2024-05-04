@@ -16,4 +16,4 @@ Em programação, "vetor" é o nome dado a arranjos unidimensionais
  Desvantagens:
 
      • Tamanho fixo
-     •Dificuldade para se realizar inserções e deleções
+     • Dificuldade para se realizar inserções e deleções
