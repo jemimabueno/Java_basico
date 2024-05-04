@@ -1,16 +1,16 @@
 # Vetores
- • Em programação, "vetor" é o nome dado a arranjos unidimensionais
+Em programação, "vetor" é o nome dado a arranjos unidimensionais
  
- • Arranjo (array) é uma estrutura de dados:
+ Arranjo (array) é uma estrutura de dados:
  
- • Homogênea (dados do mesmo tipo)
+    • Homogênea (dados do mesmo tipo)
  
- • Ordenada (elementos acessados por meio de posições)
+    • Ordenada (elementos acessados por meio de posições)
  
- • Alocada de uma vez só, em um bloco contíguo de memória
+    • Alocada de uma vez só, em um bloco contíguo de memória
  
- • Vantagens: 
-    •  Acesso imediato aos elementos pela sua posição
+• Vantagens: 
+      •  Acesso imediato aos elementos pela sua posição
 • Desvantagens:
      • Tamanho fixo
      •Dificuldade para se realizar inserções e deleções
